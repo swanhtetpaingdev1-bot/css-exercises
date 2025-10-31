@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.unique1,
+.unique2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.unique1 {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.unique2 {
+    background-color: #ffff00;
+}
